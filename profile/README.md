@@ -7,7 +7,7 @@ This is where I publish all my open-source projects and packages for anyone to u
 
 ## 🛠️ Projects
 
-- [Diamond-Express](https://github.com/ByDiamondHQ/diamond-express) - A Typescript Express Boilerplate with extra features.  
+- [Diamond Express](https://github.com/ByDiamondHQ/diamond-express) - A Typescript Express Boilerplate with extra features.  
 - [Diamond CLI](https://github.com/ByDiamondHQ/diamond-cli) - A CLI tool for working with Diamond Express
 - [Windmill Dashboard Vue](https://github.com/ByDiamondHQ/windmill-dashboard-vue3) - Vue 3 clone of Windmill Dashboard by [@estevanmaito](https://github.com/estevanmaito)
 
